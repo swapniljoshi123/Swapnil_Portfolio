@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Swapnil_Portfolio/static/css/main.0153b9e4.css",
-    "main.js": "/Swapnil_Portfolio/static/js/main.8333abf9.js",
+    "main.css": "/Swapnil_Portfolio/static/css/main.33bf2563.css",
+    "main.js": "/Swapnil_Portfolio/static/js/main.ca2d1ebc.js",
     "static/js/453.acca0757.chunk.js": "/Swapnil_Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Swapnil_Joshi_BE_IT_A_02.jpg": "/Swapnil_Portfolio/static/media/Swapnil_Joshi_BE_IT_A_02.859bc778657cc5484fbf.jpg",
     "index.html": "/Swapnil_Portfolio/index.html",
-    "main.0153b9e4.css.map": "/Swapnil_Portfolio/static/css/main.0153b9e4.css.map",
-    "main.8333abf9.js.map": "/Swapnil_Portfolio/static/js/main.8333abf9.js.map",
+    "main.33bf2563.css.map": "/Swapnil_Portfolio/static/css/main.33bf2563.css.map",
+    "main.ca2d1ebc.js.map": "/Swapnil_Portfolio/static/js/main.ca2d1ebc.js.map",
     "453.acca0757.chunk.js.map": "/Swapnil_Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0153b9e4.css",
-    "static/js/main.8333abf9.js"
+    "static/css/main.33bf2563.css",
+    "static/js/main.ca2d1ebc.js"
   ]
 }
